@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": false,
+    "noUnusedLocals": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ]
+  },
+  "filesGlob": [
+    "typings/index.d.ts"
+  ],
+  "types": [
+    "node"
+  ],
+  "exclude": [
+    "dist",
+    "node_modules"
+  ],
+  "compileOnSave": false
+}
