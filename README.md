@@ -35,7 +35,7 @@ Follow me:
 | [Youtube](https://youtube.com/+RintoJoseMankudy)
 
 ## Versions
-[Check CHANGELOG](https://github.com/rintoj/functional-css/blob/master/CHANGELOG.md)
+[Check CHANGELOG](https://github.com/rintoj/resolvable/blob/master/CHANGELOG.md)
 
 ## License
 ```
