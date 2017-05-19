@@ -1,6 +1,6 @@
 {
   "name": "resolvable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts NODEJS style callback into ES6 Promise",
   "main": "index.js",
   "scripts": {
